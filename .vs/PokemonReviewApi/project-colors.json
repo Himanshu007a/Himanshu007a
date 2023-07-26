@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a03206b9-1164-4927-9ee2-ea10e3963c44": {
+      "ProjectGuid": "a03206b9-1164-4927-9ee2-ea10e3963c44",
+      "DisplayName": "PokemonReviewApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
